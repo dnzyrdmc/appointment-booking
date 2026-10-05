@@ -1,0 +1,7 @@
+{
+  "day": "13 / 20",
+  "title": "Randevu ve Müsaitlik Takvimi",
+  "description": "Tek uzmanın 30 dakikalık saatlerini ayır; aynı slotun iki kullanıcıya verilmesini önle.",
+  "mode": "İstanbul saati · tek uzman",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
